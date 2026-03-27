@@ -1,3 +1,5 @@
+Create a Quiz using AWS Amplify and Cognito (with CI/CD)
+
 npm install -g @aws-amplify/cli
 
 amplify configure
